@@ -1,0 +1,26 @@
+{
+  "name": "my-storybook",
+  "version": "1.0.0",
+  "description": "Storybook practices following https://storybook.js.org/tutorials/",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-tui": "^4.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-jest": "^24.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkkwak/my-storybook.git"
+  },
+  "author": "EunJeong Kwak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamkkwak/my-storybook/issues"
+  },
+  "homepage": "https://github.com/iamkkwak/my-storybook#readme"
+}
